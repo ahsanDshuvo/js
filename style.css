@@ -1,0 +1,23 @@
+.text-center{
+    margin-top: 5rem;
+}
+.shadow{
+    
+    box-sizing: border-box;
+    /* box-shadow: 3px 3px 4px 3px grey; */
+    border-radius: 1rem;
+}
+
+.p-2{
+    margin-top: 5rem;
+ 
+}
+.form-control{
+    margin:1rem 0 1rem 0;
+}
+.padding{
+    padding: 3rem;
+}
+#bank{
+    display: none;
+}
